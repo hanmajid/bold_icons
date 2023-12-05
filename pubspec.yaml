@@ -1,0 +1,30 @@
+name: bold_icons
+description: Collection of beautiful and well-designed icons from Bold UI Kit
+version: 0.0.1
+homepage: https://github.com/hanmajid/bold_icons
+issue_tracker: https://github.com/hanmajid/bold_icons/issues
+repository: https://github.com/hanmajid/bold_icons
+funding:
+  - https://github.com/sponsors/hanmajid
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: BoldIcons
+      fonts:
+        - asset: assets/BoldIcons.ttf
+
+topics:
+  - assets
+  - icons
+  - ui
+
+screenshots:
+  - description: 'Bold icons'
+    path: bold-icons.png
