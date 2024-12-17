@@ -1,5 +1,7 @@
 # Bold Icons
 
+[![pub package](https://img.shields.io/pub/v/bold_icons.svg)](https://pub.dev/packages/bold_icons)
+
 Unofficial Flutter package for **Bold UI Kit icons**. Bold UI Kit is made by [Bridge Lab](https://www.figma.com/@bridgelab) and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Installation
@@ -10,27 +12,6 @@ Add `bold_icons` dependency to your Flutter project:
 dependencies:
   bold_icons: ^<latest-version>
 ```
-
-### Installation (Local)
-
-If you purchased this package from marketplace, follow instructions below to use this package:
-
-1. Put `bold_icons` package folder in the same folder as your Flutter project like shown below:
-   ```
-   └── my_working_directory/
-       ├── bold_icons/                      # Place package folder here
-       └── my_awesome_flutter_project/      # Place your Flutter project folder here
-   ```
-2. In your `pubspec.yaml` file, add `bold_icons` as local dependency in your Flutter project:
-   ```yaml
-   dependencies:
-     bold_icons:
-       path: ../bold_icons
-   ```
-3. Update your Flutter project dependencies by running:
-   ```
-   flutter pub get
-   ```
 
 ## Usage
 
@@ -52,7 +33,7 @@ For issues, file directly in the [repository](https://github.com/hanmajid/bold_i
 
 ## Icons
 
-<img src="bold-icons.png">
+<img src="https://github.com/hanmajid/bold_icons/blob/master/bold-icons.png?raw=true">
 
 All Bold icons can be viewed on its Figma file [here](https://www.figma.com/community/file/918488838987058594).
 
